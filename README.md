@@ -6,7 +6,7 @@ This project analyzes historical outreach data to identify key factors driving s
 - `outreach_model.ipynb` – Jupyter Notebook with full analysis
 - `data/outreach_data.csv` – Cleaned outreach dataset
 - `visuals/feature_importance.png` – Feature importance from Random Forest
-- 📄 [Detailed Report (Google Drive)]((https://drive.google.com/file/d/1fu9_075nzgMXEDWTsfMMJgOPpHpqxlt-/view))
+- 📄 [Detailed Report (Google Drive)][(https://drive.google.com/file/d/1fu9_075nzgMXEDWTsfMMJgOPpHpqxlt-/view)]
 
 ## 🧠 Tools Used
 - Python
